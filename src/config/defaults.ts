@@ -73,6 +73,7 @@ const defaultConfig = {
   },
   /** please order alphabetically */
   'plugins': {
+    'neon-websocket': {},
     'adblocker': {
       enabled: true,
       cache: true,
